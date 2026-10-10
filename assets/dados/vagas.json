@@ -1,0 +1,14 @@
+[
+  { "id": 501, "empresa": "StudioCriativo", "cargo": "UI/UX Designer Júnior", "requisitos": ["Figma", "Design System", "Ilustração"], "salario": 3400.00, "modalidade": "Presencial", "estado": "SP" },
+  { "id": 502, "empresa": "AgênciaAgile", "cargo": "Designer Digital Pleno", "requisitos": ["Figma", "Photoshop", "Branding", "Git"], "salario": 4800.00, "modalidade": "Remoto", "abrangencia": "Nacional", "estado": "RJ" },
+  { "id": 503, "empresa": "MídiaSocial Co", "cargo": "Social Media & Conteúdo", "requisitos": ["Copywriting", "Photoshop", "SEO"], "salario": 3100.00, "modalidade": "Presencial", "estado": "MG" },
+  { "id": 504, "empresa": "BrandMasters", "cargo": "Visual Designer", "requisitos": ["Figma", "Branding", "Motion Design"], "salario": 4500.00, "modalidade": "Remoto", "abrangencia": "Estadual", "estado": "SP" },
+  { "id": 505, "empresa": "GrowthTech", "cargo": "Analista de UX Research", "requisitos": ["Figma", "Design System", "UX Research", "SEO"], "salario": 5500.00, "modalidade": "Presencial", "estado": "PR" },
+  { "id": 506, "empresa": "VibeDigital", "cargo": "Web Designer Júnior", "requisitos": ["Figma", "Photoshop", "Git"], "salario": 3000.00, "modalidade": "Remoto", "abrangencia": "Nacional", "estado": "SC" },
+  { "id": 507, "empresa": "ArtMinds", "cargo": "Ilustrador Digital", "requisitos": ["Ilustração", "Photoshop", "Branding"], "salario": 3700.00, "modalidade": "Presencial", "estado": "RS" },
+  { "id": 508, "empresa": "EcomCriativo", "cargo": "Product Designer Pleno", "requisitos": ["Figma", "Design System", "UX Research", "Motion Design", "Git"], "salario": 6800.00, "modalidade": "Remoto", "abrangencia": "Estadual", "estado": "MG" },
+  { "id": 509, "empresa": "ConceptAgência", "cargo": "Criador de Conteúdo Sênior", "requisitos": ["Copywriting", "SEO", "Branding"], "salario": 5000.00, "modalidade": "Presencial", "estado": "ES" },
+  { "id": 510, "empresa": "PixelFocus", "cargo": "Assistente de Arte", "requisitos": ["Photoshop", "Ilustração"], "salario": 2600.00, "modalidade": "Presencial", "estado": "SP" }
+]
+
+
